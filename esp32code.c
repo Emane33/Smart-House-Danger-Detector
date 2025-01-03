@@ -10,8 +10,8 @@
 #define buzzer 2                 // Buzzer
 
 // WiFi credentials
-const char* ssid = "Hamad";
-const char* password = "NOOH3456";
+const char* ssid = "Networkname";
+const char* password = "Networkpass";
 
 // WebSocket server
 WebSocketsServer webSocket = WebSocketsServer(81);
